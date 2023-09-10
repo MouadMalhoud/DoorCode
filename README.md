@@ -7,12 +7,18 @@ The data of every access attempt can also be stored in an SQL database.
 
 
 You will need :
-Raspberry Pi or pico
-Many cables (for + and GND)
-Buzzer
-Leds (ideally green and red)
-LCD Screen
-Keypad
-breadboard 
+-Raspberry Pi or pico
+
+-Many cables (for + and GND)
+
+-Buzzer
+
+-Leds (ideally green and red)
+
+-LCD Screen
+
+-Keypad
+
+-Breadboard 
 
 The setup of the project is in the repo ( Montage 1-2-3 ) and in the "Rapport TP_Synthese"
